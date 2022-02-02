@@ -1,5 +1,5 @@
 - 👋 Hola, soy Ivan
-- 💻 Estoy interesado en Flutter y la ingeniería de software.
+- 💻 Desarrollo apps android con Flutter .
 - 📚 Actualmente estoy aprendiendo de forma autodidacta
 - 📫 Cómo contactarme lucas.aiivan@gmail.com
 
